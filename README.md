@@ -1,6 +1,7 @@
 # 🚀 ConnectUs
 
 ConnectUs is a real-time chat application that allows users to connect, send messages, and communicate instantly in a secure and responsive environment.
+You can simply share the meeting code with your friend and instantly connect to chat with them.
 
 ## 🌐 Live Demo
 
